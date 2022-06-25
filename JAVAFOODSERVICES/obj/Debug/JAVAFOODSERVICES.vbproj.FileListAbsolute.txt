@@ -1,0 +1,15 @@
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\bin\Debug\JAVAFOODSERVICES.exe.config
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\bin\Debug\JAVAFOODSERVICES.exe
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\bin\Debug\JAVAFOODSERVICES.pdb
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\bin\Debug\JAVAFOODSERVICES.xml
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.vbproj.AssemblyReference.cache
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.Form1.resources
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.Resources.resources
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.SplashScreen1.resources
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.vbproj.GenerateResource.cache
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.vbproj.CoreCompileInputs.cache
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.exe
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.xml
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.pdb
+C:\Users\Herbie\Documents\COE 4-1 (Second Sem)\Team Building\JAVAFOODSERVICES\obj\Debug\JAVAFOODSERVICES.Form2.resources
